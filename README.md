@@ -38,7 +38,7 @@ I'm a passionate backend developer focused on building scalable and efficient se
 - Cloud Services (AWS/GCP)
 
 ### 📫 How to reach me
-- LinkedIn: [Mạnh Dũng Nguyễn](https://www.linkedin.com/in/m%E1%BA%A1nh-d%C5%A9ng-nguy%E1%BB%85n-0b2573362/)
+- LinkedIn: [Mạnh Dũng Nguyễn](https://www.linkedin.com/in/nguyenmanh-dung)
 - Email: nguyenmanhdung29052005@gmail.com
 
 ### 📊 GitHub Stats
