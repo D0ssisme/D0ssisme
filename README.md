@@ -44,6 +44,7 @@ I'm a passionate backend developer focused on building scalable and efficient se
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ssisme&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ssisme&layout=compact&theme=dark)Giải thích:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ssisme&layout=compact&theme=dark)
+
 ---
 ⚡ *"Clean code, scalable architecture, and continuous learning"*
