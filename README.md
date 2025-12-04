@@ -42,9 +42,40 @@ I'm a passionate backend developer focused on building scalable and efficient se
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ssisme&show_icons=true&theme=dark)
+<div align="center">
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=D0ssisme&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ssisme&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ssisme&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+### 📈 Contribution Graph
+
+[![D0ssisme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D0ssisme&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=D0ssisme&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=D0ssisme&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
+
+<div align="center">
+  
 ⚡ *"Clean code, scalable architecture, and continuous learning"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=D0ssisme&color=brightgreen&style=flat-square)
+
+</div>
